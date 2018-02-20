@@ -1,0 +1,42 @@
+.locator {
+top: 100px;
+left: 550px;
+position: absolute;
+}
+.forms{
+	top: 265px;
+	left:575px;
+	position: absolute;
+
+}
+img{
+	z-index: -1;
+}
+
+.forms.buttons {
+	top: 280px;
+	left:575px;
+	position: absolute;
+	
+}
+.topbar{
+	font-family: arial;
+	font-size: 12px;
+	font-style: none;
+	text-decoration: none;
+}
+.topleft{
+	position: absolute;
+	top:0;
+	left:10px;
+	}
+.topright{
+	position:absolute;
+   top:0;
+   right:10px;
+	
+}
+
+a{
+	text-decoration: none;
+}
